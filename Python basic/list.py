@@ -1,3 +1,7 @@
+
+
+
+
 total_list = []
 while True:
     question = input("질문을 입력해주세요 : ")
